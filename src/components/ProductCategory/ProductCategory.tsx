@@ -1,7 +1,6 @@
 import { useState } from "react";
 import ProductItem from "./ProductItem/ProductItem";
 import "./ProductCategory.scss";
-import RotatingArrow from "../RotatingArrow/RotatingArrow";
 import ProductCategoryTitle from "./ProductCategoryTitle/ProductCategoryTitle";
 
 interface ProductCategoryProps {
