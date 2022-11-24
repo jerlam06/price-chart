@@ -1,0 +1,13 @@
+@import "../../../shared/constants.scss";
+
+.ProductItem {
+  margin-left: 0.8rem;
+  padding: 0 0.3rem;
+  border-radius: 3px;
+  margin-bottom: 0.2rem;
+  cursor: pointer;
+
+  &--selected {
+    background-color: $accent-primary;
+  }
+}

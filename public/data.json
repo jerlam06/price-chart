@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "type": "category",
+    "name": "Laptop",
+    "data": [
+      {
+        "id": 12,
+        "type": "category",
+        "name": "13-inch",
+        "data": [
+          {
+            "id": 123,
+            "type": "product",
+            "name": "MSI",
+            "salesByDate": [
+              {
+                "date": "01/01/2021",
+                "sales": 761
+              },
+              {
+                "date": "02/01/2021",
+                "sales": 543
+              },
+              {
+                "date": "03/01/2021",
+                "sales": 342
+              },
+              {
+                "date": "04/01/2021",
+                "sales": 865
+              }
+            ]
+          },
+          {
+            "id": 124,
+            "type": "product",
+            "name": "Lenovo",
+            "salesByDate": [
+              {
+                "date": "01/01/2021",
+                "sales": 765
+              },
+              {
+                "date": "02/01/2021",
+                "sales": 445
+              },
+              {
+                "date": "03/01/2021",
+                "sales": 582
+              },
+              {
+                "date": "04/01/2021",
+                "sales": 725
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "type": "category",
+        "name": "15-inch",
+        "data": [
+          {
+            "id": 125,
+            "type": "product",
+            "name": "Asus",
+            "salesByDate": [
+              {
+                "date": "01/01/2021",
+                "sales": 546
+              },
+              {
+                "date": "02/01/2021",
+                "sales": 54
+              },
+              {
+                "date": "03/01/2021",
+                "sales": 765
+              },
+              {
+                "date": "04/01/2021",
+                "sales": 354
+              }
+            ]
+          },
+          {
+            "id": 126,
+            "type": "product",
+            "name": "Acer",
+            "salesByDate": [
+              {
+                "date": "01/01/2021",
+                "sales": 678
+              },
+              {
+                "date": "02/01/2021",
+                "sales": 453
+              },
+              {
+                "date": "03/01/2021",
+                "sales": 986
+              },
+              {
+                "date": "04/01/2021",
+                "sales": 654
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "type": "category",
+        "name": "18-inch",
+        "data": [
+          {
+            "id": 1254,
+            "type": "category",
+            "name": "MacBook",
+            "data": [
+              {
+                "id": 12565,
+                "type": "product",
+                "name": "Air",
+                "salesByDate": [
+                  {
+                    "date": "01/01/2021",
+                    "sales": 54
+                  },
+                  {
+                    "date": "02/01/2021",
+                    "sales": 78
+                  },
+                  {
+                    "date": "03/01/2021",
+                    "sales": 232
+                  },
+                  {
+                    "date": "04/01/2021",
+                    "sales": 462
+                  }
+                ]
+              },
+              {
+                "id": 12566,
+                "type": "product",
+                "name": "Pro",
+                "salesByDate": [
+                  {
+                    "date": "01/01/2021",
+                    "sales": 342
+                  },
+                  {
+                    "date": "02/01/2021",
+                    "sales": 342
+                  },
+                  {
+                    "date": "03/01/2021",
+                    "sales": 46
+                  },
+                  {
+                    "date": "04/01/2021",
+                    "sales": 86
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 1764,
+            "type": "category",
+            "name": "Chromebook",
+            "data": [
+              {
+                "id": 12575,
+                "type": "product",
+                "name": "Pixelbook",
+                "salesByDate": [
+                  {
+                    "date": "01/01/2021",
+                    "sales": 12
+                  },
+                  {
+                    "date": "02/01/2021",
+                    "sales": 543
+                  },
+                  {
+                    "date": "03/01/2021",
+                    "sales": 67
+                  },
+                  {
+                    "date": "04/01/2021",
+                    "sales": 87
+                  }
+                ]
+              },
+              {
+                "id": 12576,
+                "type": "product",
+                "name": "Pixelbook Pro",
+                "salesByDate": [
+                  {
+                    "date": "01/01/2021",
+                    "sales": 456
+                  },
+                  {
+                    "date": "02/01/2021",
+                    "sales": 767
+                  },
+                  {
+                    "date": "03/01/2021",
+                    "sales": 32
+                  },
+                  {
+                    "date": "04/01/2021",
+                    "sales": 76
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+@import "../../shared/constants.scss";
+
+.ProductCategory {
+  display: flex;
+  flex-direction: column;
+
+  * {
+    user-select: none;
+  }
+
+  &__children {
+    padding-left: 20px;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: opacity 0.5s ease;
+
+    &--open {
+      opacity: 1;
+      height: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+}

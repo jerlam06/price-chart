@@ -1,0 +1,10 @@
+.RotatingArrow {
+  width: 20px;
+  height: 20px;
+  transition: transform 0.2s ease;
+  margin-right: 0.5rem;
+
+  &--rotate {
+    transform: rotateZ(90deg);
+  }
+}

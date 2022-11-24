@@ -1,0 +1,8 @@
+@import "../../shared/constants.scss";
+
+.SideBar {
+  min-width: 300px;
+  height: 100vh;
+  padding: 2rem;
+  background-color: $dark-primary;
+}

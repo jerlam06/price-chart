@@ -1,0 +1,18 @@
+@import "../../../shared/constants.scss";
+
+.ProductCategoryTitle {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-size: 1.3rem;
+  margin: 0.2rem 0;
+
+  &__title {
+    padding: 0.2rem;
+    border-radius: 3px;
+
+    &--selected {
+      background-color: $accent-primary;
+    }
+  }
+}
