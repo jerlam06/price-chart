@@ -22,3 +22,9 @@ To run tests, run the following command
 ```bash
   npm run test
 ```
+
+## Documentation
+
+Any node in the SideBar can be selected. When selecting multiple nodes, the chart will display the aggragated values of each selected nodes as well as their children's.
+
+Only nodes within the same level in the tree can be selected together. If a node in a different level is selected, all non-same-level nodes previously selected become unselected, and the level of the newly selected node becomes the active one.
